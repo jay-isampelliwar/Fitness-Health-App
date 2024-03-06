@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158534531319",
+    "project_id": "fit-app-cdac2",
+    "storage_bucket": "fit-app-cdac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158534531319:android:8ca01b0404be46d376bbf2",
+        "android_client_info": {
+          "package_name": "com.example.google_fit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFornreug_prskS-st0NBGIdDtZpvjgNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
