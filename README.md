@@ -14,4 +14,4 @@ flutter run
 
 ## Flutter  3.16.1
 ## Dart 3.2.1
-# [Screenshot](https://github.com/jay-isampelliwar/Fitness-Health-App/screenshot)
+# [Screenshot](https://github.com/jay-isampelliwar/Fitness-Health-App/tree/main/screenshot)
